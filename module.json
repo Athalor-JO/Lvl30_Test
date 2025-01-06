@@ -1,0 +1,29 @@
+{
+
+"ID": "Level30_Test",
+
+"Title": "LVL 30 setter",
+
+"Description": "A Simple Module for Setting Maxlevel to 30",
+
+"Authors": [
+
+{
+
+"Name": "JO"
+
+}
+
+]
+
+"Version": "1.0.0",
+
+"Compatibility": {
+
+"minimum": "10",
+
+"Verified": "11"
+
+}
+
+}
