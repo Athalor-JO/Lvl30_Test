@@ -16,6 +16,10 @@
 
 ]
 
+"scripts": [
+	"Scripts/level30_Test.js"
+]
+
 "Version": "1.0.0",
 
 "Compatibility": {
