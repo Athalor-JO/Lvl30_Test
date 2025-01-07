@@ -1,13 +1,14 @@
 {
 
 
-"Title": "LVL30_Test",
-"ID": "Level30_Test",
-"Description": "A Simple Module for Setting Maxlevel to 30",
+"title": "LVL30_Test",
+"id": "Level30_Test",
+"description": "A Simple Module for Setting Maxlevel to 30",
+"version": "0.3",
 
-"Authors": [
+"authors": [
 	{
-		"Name": "JO"
+		"name": "JO"
 	}
 ],
 
@@ -21,13 +22,13 @@
 
 
 
-"Version": "1.0.0",
+"version": "1.0.0",
 
-"Compatibility": {
+"compatibility": {
 
 "minimum": "10",
 
-"Verified": "11"
+"verified": "11"
 
 }
 
