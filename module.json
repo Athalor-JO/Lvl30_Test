@@ -4,7 +4,7 @@
 "title": "LVL30_Test",
 "id": "Level30_Test",
 "description": "A Simple Module for Setting Maxlevel to 30",
-"version": "0.3",
+"version": "0.4",
 
 "authors": [
 	{
@@ -20,9 +20,6 @@
 "manifest": "https://github.com/Athalor-JO/Lvl30_Test/releases/latest/download/module.json",
 "download": "https://github.com/Athalor-JO/Lvl30_Test/releases/latest/download/Level30_Test.zip",
 
-
-
-"version": "1.0.0",
 
 "compatibility": {
 
